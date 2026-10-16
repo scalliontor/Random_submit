@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.gemma_form_state.json
+.gemma_form_state.json.tmp
+gemma_responses.csv
+gemma_responses.csv.tmp
+HUONG_DAN_GOI_GEMMA4.md
